@@ -1,2 +1,2 @@
-module.exports = require('lib/ymd');
+module.exports = require('./lib/ymd');
 
