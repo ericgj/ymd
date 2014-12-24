@@ -16,7 +16,9 @@
     "url" : ""
   }],
   "dependencies" : {},
-  "devDependencies":{},
+  "devDependencies":{
+    "testutil": "0.6.x"  
+  },
   "main" : "./lib/ymd.js",
   "scripts": {
     "test": "mocha test"
